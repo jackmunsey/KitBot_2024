@@ -1,0 +1,9 @@
+{
+    "motorConfig" {
+        "port":1,
+        "motorModel": "",
+        "motorType": "",
+        "isInverted": ,
+        "neutralOperation": "BRAKE"
+    }
+}
