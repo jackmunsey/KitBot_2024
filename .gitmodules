@@ -1,0 +1,3 @@
+[submodule "SOTAlib"]
+	path = SOTAlib
+	url = https://github.com/FIRST-Team-2557-The-SOTABots/SOTAlib.git
